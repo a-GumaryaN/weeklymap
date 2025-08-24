@@ -41,8 +41,13 @@ The goal is to provide traders with clear visual references for support/resistan
 ## Notes
 
 - This indicator is designed for **MetaTrader 5**.  
-- The lines will be updated at the close of each weekly candle.  
-- Use the lines as visual guides; do not rely solely on them for trading decisions.
+- The lines will be updated at the close of each weekly candle.
+
+---
+
+##Disclaimer
+
+**Use the lines as visual guides; do not rely solely on them for trading decisions**
 
 ---
 
