@@ -45,7 +45,7 @@ The goal is to provide traders with clear visual references for support/resistan
 
 ---
 
-##Disclaimer
+## Disclaimer
 
 **Use the lines as visual guides; do not rely solely on them for trading decisions**
 
